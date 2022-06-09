@@ -1,0 +1,54 @@
+body,html{
+    height: 100%;
+    margin: 0;
+    
+    
+
+}
+
+#a,#b,#c,#d{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    color: indigo ;
+}
+footer{
+    font-size: x-large;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+    height: 100px;    
+    text-align: center;
+    line-height: 1100px;
+    display: flex;
+ 
+    
+}
+
+
+
+.bg{
+    background-image: url("../imag/nos².jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+h2{
+    font-size: xx-large;
+    color: honeydew;
+    text-align: center;
+
+}
+li{
+    padding: 2px;
+    border:1px black solid ;
+    display:inline-block;
+    margin: 5px;
+    justify-content: center;
+    text-align: center;
+    
+}
+.bgmo{
+    background-color:purple;
+}
